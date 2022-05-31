@@ -504,17 +504,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.38A44910-317C-4DFA-9BC7-315FF3C962BC</string>
+			<string>com.apple.webClip.managed.F1F8B47E-3D7B-41FE-B5BE-EFE428600CC2</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>38A44910-317C-4DFA-9BC7-315FF3C962BC</string>
+			<string>F1F8B47E-3D7B-41FE-B5BE-EFE428600CC2</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://m.m.koolb.app</string>
+			<string>https://m.koolb.app</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -522,7 +522,7 @@
 	<key>PayloadDisplayName</key>
 	<string>KoolB</string>
 	<key>PayloadIdentifier</key>
-	<string>wengshengkaideMacBook-Pro.2659FC28-33E8-4332-A40F-7F325072B4E8</string>
+	<string>wengshengkaideMacBook-Pro.51535B1C-D4B3-41D0-BCB6-1C022A5D6769</string>
 	<key>PayloadOrganization</key>
 	<string>KoolB</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -530,7 +530,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>EEF1F59E-22A0-4E3C-B0B5-4FECE05862E3</string>
+	<string>9D4726C8-3CA1-4B13-8A40-912046270D59</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
